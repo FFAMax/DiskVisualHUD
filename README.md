@@ -1,3 +1,9 @@
+<img width="66" height="514" alt="Screenshot from 2026-02-11 19-48-15" src="https://github.com/user-attachments/assets/eb62c671-b806-4209-806b-4701d9224707" />
+<img width="66" height="514" alt="Screenshot from 2026-02-11 19-49-15" src="https://github.com/user-attachments/assets/fe124c67-46a5-4669-9a29-24d935cda923" />
+<img width="66" height="514" alt="Screenshot from 2026-02-11 19-52-39" src="https://github.com/user-attachments/assets/ec877822-8214-45e6-bd52-bb7cb3801330" />
+<img width="66" height="514" alt="Screenshot from 2026-02-11 19-52-49" src="https://github.com/user-attachments/assets/58a18a84-3401-4710-ae4a-a182ab48b6ab" />
+(the last one - writing to 2 raid members and md itself while reading from another disk)
+
 # Real-Time Disk I/O Visualizer
 
 This Python script is a **Real-Time Disk I/O Visualizer** built with `tkinter` and `psutil`. It provides a high-density, vertical dashboard to monitor read/write speeds, latency, and queue depths across multiple disks simultaneously.
